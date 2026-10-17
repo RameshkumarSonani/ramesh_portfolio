@@ -34,7 +34,7 @@ export default function Hero() {
 
           <div className="mt-9 flex flex-wrap gap-4">
             <a
-              href="/projects"
+              href="/ProjectsPage"
               className="inline-flex items-center gap-2 rounded-lg bg-green-400 px-5 py-3 font-semibold text-slate-950 transition duration-200 hover:-translate-y-0.5 hover:bg-green-300"
             >
               Explore Projects <span>↗</span>
