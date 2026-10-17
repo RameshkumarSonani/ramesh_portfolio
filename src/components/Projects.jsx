@@ -33,6 +33,15 @@ const projects = [
     github: "https://github.com/RameshkumarSonani/CareerCounselingPlatform.git",
     demo: "https://lnkd.in/p/dVNdMiN6",
   },
+  {
+    number:"04",
+    title:"Electronic-TechyStore",
+    category:"E-commerce",
+    description:"A Electronic online shop to order electronic devices, like Laptops,TV's, Power Suppliers and other products",
+    technologies: ["React.js","Tailwind CSS", "React-Hooks","ReactToolkit"],
+    github: "https://github.com/RameshkumarSonani/TechyStore.git",
+    demo:"https://techy-store-beta.vercel.app/",
+  },
 ];
 
 
